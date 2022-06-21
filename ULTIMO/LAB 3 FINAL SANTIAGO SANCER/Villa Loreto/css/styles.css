@@ -1,0 +1,154 @@
+.iconos-redes-sociales {
+    width: 20px;
+    margin: 20px 5px;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+    bottom: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.section {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 250px;
+}
+
+h1 {
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 40px 20px;
+}
+
+.imagen_slider {
+    margin: auto;
+}
+
+.imagen_quienes_somos {
+    margin: 50px 20px;
+    width: 300px;
+}
+
+footer {
+    background-color: #212529;
+    padding: 50px;
+    text-align: center;
+}
+
+footer .logotipo {
+    width: 200px;
+    margin-bottom: 30px;
+    color: whitesmoke;
+}
+
+footer .datos {
+    color: gray;
+    text-shadow: gainsboro;
+}
+
+form {
+    width: 900px;
+    margin: 0 auto;
+    background: rgb(206, 206, 206);
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+input,
+textarea {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+
+
+#button {
+    cursor: pointer;
+}
+
+.map {
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*Styles pagina Proyectos*/
+
+#main-container {
+    margin: 80px auto;
+    width: 1200px;
+}
+
+table {
+    background-color: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: solid 1px black;
+    padding: 20px;
+}
+
+thead {
+    background-color: #2b695b;
+    border-bottom: solid 5px #1e2e2a;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #ddd;
+}
+
+tr:hover td {
+    background-color: #369681;
+    color: white;
+}
+
+
+
+#main-container-edit {
+    margin: 80px auto;
+    width: 100%;
+}
+
+.form-edit {
+    width: 1300px;
+    margin: 0 auto;
+    background: rgb(1, 21, 242);
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
